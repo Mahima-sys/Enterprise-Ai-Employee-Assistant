@@ -133,7 +133,8 @@ enterprise-ai-employee-assistant/
 │
 └── README.md
 
-🛠️ Technology Stack
+
+## 🛠️ Technology Stack
 Frontend
 React
 TypeScript
@@ -163,7 +164,7 @@ Database
 SQLite
 SQLAlchemy ORM
 
-📂 Backend Structure
+## 📂 Backend Structure
 
 The backend follows a modular architecture.
 
@@ -184,7 +185,7 @@ http://127.0.0.1:8000
 Swagger API documentation:
 
 http://127.0.0.1:8000/docs
-🔐 Authentication
+## 🔐 Authentication
 
 Authentication is implemented using JWT tokens.
 
@@ -258,7 +259,8 @@ Gemini         RAG Service
            │
            ▼
      React Frontend
-📚 RAG System
+
+## 📚 RAG System
 
 The project uses Retrieval-Augmented Generation to allow the AI assistant to answer questions using internal company documents.
 
@@ -307,7 +309,7 @@ app/uploads/
 
 The document service processes these files and makes their information available to the RAG pipeline.
 
-🗄️ Database
+## 🗄️ Database
 
 The project uses SQLite for development.
 
@@ -324,7 +326,7 @@ Application-related records
 
 SQLAlchemy is used for database interaction.
 
-🖥️ Frontend
+## 🖥️ Frontend
 
 The frontend is built using:
 
@@ -365,7 +367,8 @@ Activate it on Windows:
 Install dependencies:
 
 pip install -r requirements.txt
-🔑 Environment Variables
+
+ ## 🔑 Environment Variables
 
 Create a .env file inside the backend directory.
 
@@ -387,7 +390,8 @@ Add it to .gitignore:
 venv/
 __pycache__/
 *.pyc
-▶️ Run Backend
+
+## ▶️ Run Backend
 
 From the backend directory:
 
@@ -404,7 +408,8 @@ http://127.0.0.1:8000
 Swagger documentation:
 
 http://127.0.0.1:8000/docs
-⚛️ Frontend Setup
+
+## ⚛️ Frontend Setup
 
 Open another terminal.
 
@@ -513,7 +518,8 @@ npm run dev
 Then open:
 
 http://localhost:5173
-🐛 Troubleshooting
+
+## 🐛 Troubleshooting
 Uvicorn cannot import main
 
 If you see:
@@ -567,7 +573,7 @@ Database connection
 
 A 401 is different from a frontend-backend connection failure.
 
-🔒 Security
+## 🔒 Security
 
 Important security practices:
 
@@ -578,7 +584,7 @@ Use JWT authentication
 Validate API requests
 Protect private endpoints
 Keep database credentials secure
-📈 Future Enhancements
+## 📈 Future Enhancements
 
 Planned improvements include:
 
@@ -598,7 +604,7 @@ Persistent conversational memory
 Enterprise integrations
 Docker deployment
 Cloud deployment
-🎯 Project Objective
+## 🎯 Project Objective
 
 The goal of this project is to build an intelligent enterprise employee assistant capable of combining:
 
@@ -616,7 +622,7 @@ Automation
 
 to provide employees with a centralized AI-powered workplace assistant.
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Mahi Pothuraju
 
@@ -624,7 +630,7 @@ B.Tech – Computer Science and Engineering
 
 Vignana Bharathi Institute of Technology (VBIT)
 
-⭐ Project Highlights
+## ⭐ Project Highlights
 Full-stack AI application
 React + TypeScript frontend
 FastAPI backend
