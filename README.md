@@ -613,22 +613,22 @@ Keep database credentials secure
 
 Planned improvements include:
 
-Advanced AI agent capabilities
-n8n workflow automation
-Automated employee workflows
-Email integration
-Calendar integration
-Leave request automation
-HR ticket creation
-Improved RAG pipeline
-Better document management
-Role-based access control
-Admin dashboard
-Advanced analytics
-Persistent conversational memory
-Enterprise integrations
-Docker deployment
-Cloud deployment
+- Advanced AI agent capabilities
+- n8n workflow automation
+- Automated employee workflows
+- Email integration
+- Calendar integration
+- Leave request automation
+- HR ticket creation
+- Improved RAG pipeline
+- Better document management
+- Role-based access control
+- Admin dashboard
+- Advanced analytics
+- Persistent conversational memory
+- Enterprise integrations
+- Docker deployment
+- Cloud deployment
 
 ---
 ## 🎯 Project Objective
@@ -662,15 +662,19 @@ Vignana Bharathi Institute of Technology (VBIT)
 ---
 
 ## ⭐ Project Highlights
-Full-stack AI application
-React + TypeScript frontend
-FastAPI backend
-Gemini-powered AI
-RAG implementation
-FAISS vector search
-JWT authentication
-Password hashing
-SQLite database
-Document processing
-Employee-focused AI assistant
-Modular backend architecture
+- Full-stack AI application
+- React + TypeScript frontend
+- FastAPI backend
+- Gemini-powered AI
+- RAG implementation
+- FAISS vector search
+- JWT authentication
+- Password hashing
+- SQLite database
+- Document processing
+- Employee-focused AI assistant
+- Modular backend architecture
+
+  ## Sample  Images
+
+  "C:\Users\pothu\OneDrive\Pictures\Screenshots\Screenshot 2026-07-03 204923.png"
