@@ -675,6 +675,4 @@ Vignana Bharathi Institute of Technology (VBIT)
 - Employee-focused AI assistant
 - Modular backend architecture
 
-  ## Sample  Images
-
-  "C:\Users\pothu\OneDrive\Pictures\Screenshots\Screenshot 2026-07-03 204923.png"
+  
