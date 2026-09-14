@@ -132,7 +132,8 @@ enterprise-ai-employee-assistant/
 ├── docs/
 │
 └── README.md
-
+```
+---
 
 ## 🛠️ Technology Stack
 Frontend
@@ -164,6 +165,8 @@ Database
 SQLite
 SQLAlchemy ORM
 
+---
+
 ## 📂 Backend Structure
 
 The backend follows a modular architecture.
@@ -185,6 +188,8 @@ http://127.0.0.1:8000
 Swagger API documentation:
 
 http://127.0.0.1:8000/docs
+
+---
 ## 🔐 Authentication
 
 Authentication is implemented using JWT tokens.
@@ -260,6 +265,8 @@ Gemini         RAG Service
            ▼
      React Frontend
 
+     ---
+
 ## 📚 RAG System
 
 The project uses Retrieval-Augmented Generation to allow the AI assistant to answer questions using internal company documents.
@@ -309,6 +316,8 @@ app/uploads/
 
 The document service processes these files and makes their information available to the RAG pipeline.
 
+---
+
 ## 🗄️ Database
 
 The project uses SQLite for development.
@@ -325,6 +334,8 @@ Documents
 Application-related records
 
 SQLAlchemy is used for database interaction.
+
+---
 
 ## 🖥️ Frontend
 
@@ -368,6 +379,8 @@ Install dependencies:
 
 pip install -r requirements.txt
 
+---
+
  ## 🔑 Environment Variables
 
 Create a .env file inside the backend directory.
@@ -391,6 +404,8 @@ venv/
 __pycache__/
 *.pyc
 
+---
+
 ## ▶️ Run Backend
 
 From the backend directory:
@@ -408,6 +423,8 @@ http://127.0.0.1:8000
 Swagger documentation:
 
 http://127.0.0.1:8000/docs
+
+---
 
 ## ⚛️ Frontend Setup
 
@@ -455,7 +472,10 @@ FastAPI
 Services
   ↓
 Database / Gemini / RAG
-🌐 CORS
+
+---
+
+## 🌐 CORS
 
 The FastAPI backend allows requests from the React development server.
 
@@ -499,7 +519,7 @@ Analytics
 
 Analytics APIs provide application usage information.
 
-🧪 Testing
+### 🧪 Testing
 
 Run the backend:
 
@@ -573,6 +593,8 @@ Database connection
 
 A 401 is different from a frontend-backend connection failure.
 
+---
+
 ## 🔒 Security
 
 Important security practices:
@@ -584,6 +606,9 @@ Use JWT authentication
 Validate API requests
 Protect private endpoints
 Keep database credentials secure
+
+--- 
+
 ## 📈 Future Enhancements
 
 Planned improvements include:
@@ -604,6 +629,8 @@ Persistent conversational memory
 Enterprise integrations
 Docker deployment
 Cloud deployment
+
+---
 ## 🎯 Project Objective
 
 The goal of this project is to build an intelligent enterprise employee assistant capable of combining:
@@ -622,6 +649,8 @@ Automation
 
 to provide employees with a centralized AI-powered workplace assistant.
 
+---
+
 ## 👩‍💻 Author
 
 Mahi Pothuraju
@@ -629,6 +658,8 @@ Mahi Pothuraju
 B.Tech – Computer Science and Engineering
 
 Vignana Bharathi Institute of Technology (VBIT)
+
+---
 
 ## ⭐ Project Highlights
 Full-stack AI application
